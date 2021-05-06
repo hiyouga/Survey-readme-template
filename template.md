@@ -8,25 +8,31 @@ Mainly contributed and maintained by XXX, XXX and XXX from BDBC at Beihang Unive
 
 Thanks for all great [contributors](#acknowledgements) on GitHub!
 
-## Content
+## Table of Contents
 
 <table>
 <tr><td colspan="2"><a href="#introduction">1. Introduction</a></td></tr>
 <tr><td colspan="2"><a href="#tasks">2. Tasks</a></td></tr>
 <tr><td colspan="2"><a href="#datasets">3. Datasets</a></td></tr>
-<tr><td colspan="2"><a href="#papers">4. Papers</a></td></tr>
+<tr><td colspan="2"><a href="#survey-papers">4. Survey Papers</a></td></tr>
+<tr><td colspan="2"><a href="#papers-of-task1">5. Papers of Task1</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#survey">4.1 Survey</a></td>
-    <td>&ensp;<a href="#task1">4.2 Task1</a></td>
+    <td>&emsp;<a href="#approach1">5.1 Approach1</a></td>
+    <td>&ensp;<a href="#approach2">5.2 Approach2</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#task2">4.3 Task2</a></td>
+    <td>&emsp;<a href="#approach3">5.3 Approach3</a></td>
     <td></td>
 </tr>
-<tr><td colspan="2"><a href="#toolkits">5. Toolkits</a></td></tr>
-<tr><td colspan="2"><a href="#leaderboards">6. Leaderboards</a></td></tr>
-<tr><td colspan="2"><a href="#acknowledgements">7. Acknowledgements</a></td></tr>
-<tr><td colspan="2"><a href="#reference">8. Reference</a></td></tr>
+<tr><td colspan="2"><a href="#papers-of-task2">6. Papers of Task2</a></td></tr>
+<tr>
+    <td>&emsp;<a href="#approach4">6.4 Approach4</a></td>
+    <td></td>
+</tr>
+<tr><td colspan="2"><a href="#toolkits">7. Toolkits</a></td></tr>
+<tr><td colspan="2"><a href="#leaderboards">8. Leaderboards</a></td></tr>
+<tr><td colspan="2"><a href="#acknowledgements">9. Acknowledgements</a></td></tr>
+<tr><td colspan="2"><a href="#reference">10. Reference</a></td></tr>
 </table>
 
 ## Introduction
@@ -46,53 +52,67 @@ Introduction or background of this area.
 
 [![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
 
-- **Dataset Name** (*Source Paper*) [[download]](download link)
+- **Dataset Name** (*Source Paper*) [[download]](download_link)
     - Description
-- **Dataset Name** (*Source Paper*) [[download]](download link)
+- **Dataset Name** (*Source Paper*) [[download]](download_link)
     - Description
 
-## Papers
+## Survey Papers
 
 [![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
 
-### Survey
+1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
 
-1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf link) [[code]]((code link)) [[slides]](slides link)
+## Papers of Task1
 
-### Task1
+### Approach1
 
-#### Approach1
+1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
 
-1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf link) [[code]]((code link)) [[slides]](slides link)
+<details><summary> more </summary> 
+1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
+2. 1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
+</details>
+### Approach2
 
-#### Approach2
+1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
 
-1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf link) [[code]]((code link)) [[slides]](slides link)
+### Approach3
 
-#### Application
+1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
 
-1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf link) [[code]]((code link)) [[slides]](slides link)
+## Papers of Task2
 
-### Task2
+### Approach4
 
-#### Approach1
-
-1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf link) [[code]]((code link)) [[slides]](slides link)
+1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
 
 ## Toolkits
 
 [![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
 
-- **Toolkit Name**. [[code]](code link) [[doc]](documentation link)
+- **Toolkit Name**. [[code]](code_link) [[doc]](documentation_link)
     - Description
-- **Toolkit Name**. [[code]](code link) [[doc]](documentation link)
+- **Toolkit Name**. [[code]](code_link) [[doc]](documentation_link)
     - Description
 
 ## Leaderboards
 
 [![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
 
+### Leaderboard for Task1
 
+| Method | Accuracy | Year | Link |
+| ---- | ---- | ---- | ---- |
+| XXX | **88.88** | 2020 | [[paper]](paper_link) [[code]](code_link) |
+| YYY | 66.66 | 2019 | [[paper]](paper_link) [[code]](code_link) |
+
+### Leaderboard for Task2
+
+| Method | Accuracy | Year | Link |
+| ---- | ---- | ---- | ---- |
+| XXX | **77.77** | 2019 | [[paper]](paper_link) [[code]](code_link) |
+| YYY | 55.55 | 2018 | [[paper]](paper_link) [[code]](code_link) |
 
 ## Acknowledgements
 
@@ -104,4 +124,4 @@ Great thanks to other contributors on GitHub!
 
 [![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
 
-- [Reference1](reference link)
+- [Reference1](reference_link)

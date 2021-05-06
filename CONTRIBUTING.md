@@ -1,6 +1,6 @@
 ## Contribution Guide
 
-- Have a high-quality paper you're not seeing here? Want to contribute? Make a [pull request (PR)](pulls)! 😄
+- Have a high-quality paper you're not seeing here? Want to contribute? Make a [pull request (PR)](https://github.com/hiyouga/Survey-readme-template/pulls)! 😄
 - New to [Markdown](https://www.markdownguide.org/cheat-sheet/)? Here's how it would look like:
 
 ```markdown
