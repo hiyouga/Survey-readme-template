@@ -41,7 +41,7 @@ Introduction or background of this area.
 
 ## Tasks
 
-[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
+[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#table-of-contents)
 
 - Task1
     - Definition
@@ -50,7 +50,7 @@ Introduction or background of this area.
 
 ## Datasets
 
-[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
+[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#table-of-contents)
 
 - **Dataset Name** (*Source Paper*) [[download]](download_link)
     - Description
@@ -59,13 +59,13 @@ Introduction or background of this area.
 
 ## Survey Papers
 
-[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
+[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#table-of-contents)
 
 1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
 
 ## Papers of Task1
 
-[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
+[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#table-of-contents)
 
 ### Approach1
 
@@ -88,7 +88,7 @@ Introduction or background of this area.
 
 ## Papers of Task2
 
-[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
+[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#table-of-contents)
 
 ### Approach4
 
@@ -96,7 +96,7 @@ Introduction or background of this area.
 
 ## Toolkits
 
-[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
+[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#table-of-contents)
 
 - **Toolkit Name**. [[code]](code_link) [[doc]](documentation_link)
     - Description
@@ -105,7 +105,7 @@ Introduction or background of this area.
 
 ## Leaderboards
 
-[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
+[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#table-of-contents)
 
 ### Leaderboard for Task1
 
@@ -123,12 +123,12 @@ Introduction or background of this area.
 
 ## Acknowledgements
 
-[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
+[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#table-of-contents)
 
 Great thanks to other contributors on GitHub!
 
 ## Reference
 
-[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#content)
+[![back-to-top](https://img.shields.io/badge/%E2%86%91-back%20to%20top-yellow)](#table-of-contents)
 
 - [Reference1](reference_link)
