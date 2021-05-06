@@ -72,9 +72,12 @@ Introduction or background of this area.
 1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
 
 <details><summary> more </summary> 
+
 1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
-2. 1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
+2. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
+
 </details>
+
 ### Approach2
 
 1. **Paper Title**. *Author1, Author2*. Venue Year. `keyword1` `keyword2` [[pdf]](pdf_link) [[code]]((code_link)) [[slides]](slides_link)
